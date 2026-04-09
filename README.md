@@ -20,6 +20,6 @@ If you use our work in your research, please cite as:
 }
 ```
 
-# Dependencies
+## Dependencies
 
 To use the code, download the [EPANET-Matlab-Toolkit](https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit) and add the folder to the path of this repository.
